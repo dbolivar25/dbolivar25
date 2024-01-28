@@ -1,1 +1,9 @@
-- 👋 Hi, I’m @dbolivar25, a third-year studying Computer Science at Vanderbilt
+# Daniel Bolivar - Computer Science at Vanderbilt University
+## About Me
+- My interests within computer science are mostly in backend and CLI development. These interests have led me to build several personal projects where I teach myself as I go. You can find some of my favorite projects pinned on this page.
+- Recently, I've started learning Golang and OCaml with the aim of expanding my toolbelt.
+
+## Contact
+Feel free to reach out.
+
+- LinkedIn: www.linkedin.com/in/daniel-bolivar-3667481ab
