@@ -1,3 +1,3 @@
 # Daniel Bolivar
-### - SWE at Augment AI
-### - CS at Vanderbilt University
+### - SWE @ Augment AI
+### - CS @ Vanderbilt University
