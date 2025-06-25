@@ -1,3 +1,3 @@
 # Daniel Bolivar
-### SDE @ Augment AI
+### AI/ML SDE @ Augment AI
 ### CS @ Vanderbilt University
